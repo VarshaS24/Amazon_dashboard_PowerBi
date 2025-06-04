@@ -1,4 +1,4 @@
-📊 Amazon Sales Analytics Dashboard
+                                                            📊 Amazon Sales Analytics Dashboard
 
 📝 Short Description:
 
@@ -36,7 +36,7 @@ Average Price: $94.53
 
 Number of Reviews: 89.08K
 
-key questions:
+✅ key questions:
 
 What is the total number of sales records (rows) in the dataset?
 
@@ -56,7 +56,7 @@ What is the contribution of each product category to the overall business in ter
 
 How can users filter insights by shipment type, product category, or month?
 
-Demo:
+🖼️ Demo:
 Shows how the dashboard looks like:
 
 Amazon_Dashboad: ![Amazon](https://github.com/user-attachments/assets/12f3e1f8-b07c-485c-8e6e-a6e93b2e734d)
