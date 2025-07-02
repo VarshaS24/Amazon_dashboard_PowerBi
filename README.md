@@ -4,6 +4,8 @@
 
 An interactive Power BI dashboard that analyzes Amazon sales data to uncover trends in pricing, customer reviews, and product performance. Built to support data-driven decision-making for e-commerce businesses.
 
+Live Demo: https://app.powerbi.com/groups/me/reports/25589bbd-2ec9-4c18-b68d-17df6a58c422/4d655014c99d86553767?experience=power-bi
+
 🧰 Tech Stack:
 
 Power BI – for data visualization and dashboard creation
